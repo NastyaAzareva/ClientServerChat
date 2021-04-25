@@ -1,0 +1,2 @@
+com/common/ChatDatabaseTest.java
+ com.common.ChatDatabaseTest

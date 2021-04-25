@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.common.ChatDatabaseTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-25T19:32:58" hostname="COMPUTER" time="0.453">
+  <properties/>
+  <testcase name="positiveCheckAutorizationTest()" classname="com.common.ChatDatabaseTest" time="0.453"/>
+  <system-out><![CDATA[result = 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
